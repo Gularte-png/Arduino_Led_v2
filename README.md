@@ -5,4 +5,4 @@
 13 (LED_BUILTIN).
 
 ## Esquema do projeto 
-![Esquema do projeto](arduino_led_v2)
+![Esquema do projeto](arduino_led_v2.png)
